@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/aicochat-54442-0b1b5c7a/fastapi_backend_workspace/fastapi_backend"
+}
